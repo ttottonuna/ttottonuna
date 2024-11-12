@@ -55,10 +55,13 @@
 
 ### Connect with me:
 <div align="center">
-  <a href="https://velog.io/@ttottonuna"><img alt="ttottonuna | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" /></a>
+  <a href="https://velog.io/@ttottonuna">
+    <img alt="ttottonuna | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />
+  </a>
   <a href="mailto:wpfkf4644@gmail.com">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" />
+    <img alt="Gmail" width="48px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
   </a>
 </div>
+
 
 
