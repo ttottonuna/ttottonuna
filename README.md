@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ttotto's%20Github&fontSize=90)
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/imysh578">
-    <img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+  <a href="https://github.com/ttottonuna">
+    <img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="ttottonuna" />
   </a>
-  <a href="https://github.com/imysh578">
+  <a href="https://github.com/ttottonuna">
     <img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" />
   </a>
 </div>
@@ -58,13 +58,13 @@
 
 ### Connect with me:
 
-[<img align="center" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="center" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="center" alt="SOKURI_CODE | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" />][twitter]
-[<img align="center" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[<img align="center" alt="ttottonuna | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
+[<img align="center" alt="ttottonuna | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
+[<img align="center" alt="ttottonuna | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" />][twitter]
+[<img align="center" alt="ttottonuna | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="ttottonuna | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
-[website]: https://velog.io/@imysh578
+[website]: https://velog.io/@ttottonuna
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [linkedin]: https://linkedin.com/in/
