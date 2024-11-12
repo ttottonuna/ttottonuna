@@ -1,16 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ttotto's%20Github&fontSize=90)
 
-<div align="center">
-  <div style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/ttottonuna">
-      <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=ttottonuna&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="ttottonuna" />
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/ttottonuna">
-      <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttottonuna&layout=compact&theme=nord&hide_border=true" />
-    </a>
-  </div>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://github.com/ttottonuna">
+    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=ttottonuna&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="ttottonuna" />
+  </a>
+  <a href="https://github.com/ttottonuna">
+    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttottonuna&layout=compact&theme=nord&hide_border=true" />
+  </a>
 </div>
 
 <div align="center"><h1>📚 STACKS</h1></div>
