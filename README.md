@@ -1,23 +1,17 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ttotto's%20Github&fontSize=90)
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/ttottonuna">
-          <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=ttottonuna&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="ttottonuna" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ttottonuna">
-          <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttottonuna&layout=compact&theme=nord&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div style="display: inline-block; margin: 10px;">
+    <a href="https://github.com/ttottonuna">
+      <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=ttottonuna&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="ttottonuna" />
+    </a>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <a href="https://github.com/ttottonuna">
+      <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttottonuna&layout=compact&theme=nord&hide_border=true" />
+    </a>
+  </div>
 </div>
-
 
 <div align="center"><h1>📚 STACKS</h1></div>
 
@@ -26,7 +20,6 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
-  
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -71,6 +64,3 @@
     <img alt="Gmail" width="48px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
   </a>
 </div>
-
-
-
