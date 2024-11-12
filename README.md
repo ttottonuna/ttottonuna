@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ttotto's%20Github&fontSize=90)
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-<a href="https://github.com/ttottonuna">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-
-<a href="https://github.com/ttottonuna"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
+  <a href="https://github.com/imysh578">
+    <img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+  </a>
+  <a href="https://github.com/imysh578">
+    <img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" />
+  </a>
 </div>
 
 <div align=center><h1>📚 STACKS</h1></div>
