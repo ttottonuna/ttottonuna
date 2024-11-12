@@ -10,16 +10,6 @@
   </a>
 </div>
 
-### Connect with me:
-
-<div align="center">
-  <a href="https://velog.io/@ttottonuna"><img alt="ttottonuna | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" /></a>
-  <a href="https://youtube.com/"><img alt="ttottonuna | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" /></a>
-  <a href="https://twitter.com/"><img alt="ttottonuna | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" /></a>
-  <a href="https://linkedin.com/in/"><img alt="ttottonuna | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
-  <a href="https://instagram.com/_sokuri"><img alt="ttottonuna | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
-</div>
-
 <div align="center"><h1>📚 STACKS</h1></div>
 
 <div align="center"> 
@@ -65,4 +55,14 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
+</div>
+
+### Connect with me:
+
+<div align="center">
+  <a href="https://velog.io/@ttottonuna"><img alt="ttottonuna | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" /></a>
+  <a href="https://youtube.com/"><img alt="ttottonuna | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" /></a>
+  <a href="https://twitter.com/"><img alt="ttottonuna | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" /></a>
+  <a href="https://linkedin.com/in/"><img alt="ttottonuna | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+  <a href="https://instagram.com/_sokuri"><img alt="ttottonuna | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
