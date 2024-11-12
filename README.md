@@ -1,15 +1,23 @@
 
-<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ttotto's%20Github&fontSize=90)
+
+<div align="center">
+  <a href="https://github.com/ttottonuna">
+    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="ttottonuna" />
+  </a>
+  <a href="https://github.com/ttottonuna">
+    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" />
+  </a>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/ttottonuna">
-    <img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="ttottonuna" />
-  </a>
-  <a href="https://github.com/ttottonuna">
-    <img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" />
-  </a>
+### Connect with me:
+
+<div align="center">
+  <a href="https://velog.io/@ttottonuna"><img alt="ttottonuna | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" /></a>
+  <a href="https://youtube.com/"><img alt="ttottonuna | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" /></a>
+  <a href="https://twitter.com/"><img alt="ttottonuna | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" /></a>
+  <a href="https://linkedin.com/in/"><img alt="ttottonuna | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+  <a href="https://instagram.com/_sokuri"><img alt="ttottonuna | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
 
 <div align="center"><h1>📚 STACKS</h1></div>
@@ -57,12 +65,4 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
-</div>
-
-### Connect with me:
-
-<div align="center">
-  <a href="https://velog.io/@ttottonuna"><img align="center" alt="ttottonuna | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" /></a>
-  <a href="https://linkedin.com/in/"><img align="center" alt="ttottonuna | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
-  <a href="https://instagram.com/_sokuri"><img align="center" alt="ttottonuna | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
