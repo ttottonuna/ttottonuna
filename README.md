@@ -53,8 +53,8 @@
   <br>
 </div>
 
-### Connect with me:
 <div align="center">
+  <h3>🌐 Connect with me</h3>
   <a href="https://velog.io/@ttottonuna">
     <img alt="ttottonuna | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />
   </a>
