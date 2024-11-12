@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
   
+  <img src="https://img.shields.io/badge/langchain-#1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"> 
+  <img src="https://img.shields.io/badge/#412991-#412991?style=for-the-badge&logo=#412991&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <br>
