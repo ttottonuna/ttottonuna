@@ -25,15 +25,15 @@
 ### Statistics
 <div style="display: flex; gap: 10px;">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANGELA&show_icons=true&theme=dark&hide_border=true" width="49%" height="180px"/>
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANGELA&layout=compact&theme=dark&hide_border=true" width="49%" height="180px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" width="49%"/>
 </div>
 
 ### Connect with me
-<div style="display: flex; gap: 10px;">
-  <a href="https://velog.io/@ttottonuna">
-    <img alt="ttottonuna | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />
+<div style="display: flex; gap: 10px; font-size: 20px;">
+  <a href="https://velog.io/@ttottonuna" style="text-decoration: none; color: #00C471;">
+    Velog
   </a>
-  <a href="mailto:wpfkf4644@gmail.com">
-    <img alt="Gmail" width="48px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
+  <a href="mailto:wpfkf4644@gmail.com" style="text-decoration: none; color: #D14836;">
+    Gmail
   </a>
 </div>
