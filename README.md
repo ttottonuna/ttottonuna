@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ttotto's%20Github&fontSize=90&fontColor=white&theme=dark)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ttotto's%20Github&fontSize=90)
 
 ### Main Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -29,11 +29,13 @@
 </div>
 
 ### Connect with me
-<div style="display: flex; gap: 10px; font-size: 20px;">
-  <a href="https://velog.io/@ttottonuna" style="text-decoration: none; color: #00C471;">
-    Velog
+<div style="display: flex; gap: 20px; align-items: center; font-size: 20px;">
+  <a href="https://velog.io/@ttottonuna" style="text-decoration: none; color: #00C471; display: flex; align-items: center;">
+    <img alt="ttottonuna | velog" width="24px" src="https://img.icons8.com/color/48/000000/blog.png" />
+    <span style="margin-left: 8px;">Velog</span>
   </a>
-  <a href="mailto:wpfkf4644@gmail.com" style="text-decoration: none; color: #D14836;">
-    Gmail
+  <a href="mailto:wpfkf4644@gmail.com" style="text-decoration: none; color: #D14836; display: flex; align-items: center;">
+    <img alt="Gmail" width="24px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
+    <span style="margin-left: 8px;">Gmail</span>
   </a>
 </div>
