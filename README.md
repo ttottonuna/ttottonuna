@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ttotto's%20Github&fontSize=90)
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
         <a href="https://github.com/ttottonuna">
