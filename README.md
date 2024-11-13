@@ -24,7 +24,7 @@
 
 ### 🐈 Statistics
 <div style="display: flex; gap: 10px;">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANGELA&show_icons=true&theme=dark&hide_border=true" width="49%" height="180px"/>
+ <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANGELA&count_private=true&show_icons=true&theme=radical&hide_border=true" width="49%" height="180px"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" width="49%"/>
 </div>
 
@@ -36,4 +36,8 @@
   <a href="mailto:wpfkf4644@gmail.com">
     <img alt="Gmail" width="48px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
   </a>
+  <a href="https://www.linkedin.com/in/gela-an-972485338">
+    <img alt="LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  </a>
 </div>
+
