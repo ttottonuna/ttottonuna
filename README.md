@@ -29,7 +29,7 @@
 
 ### 🐾 Connect with me
 <div style="display: flex; gap: 10px;">
-  <a href="https://velog.io/@ttottonuna">
+  <a href="[https://velog.io/@ttottonuna](https://velog.io/@totomom/posts)">
     <img alt="ttottonuna | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />
   </a>
   <a href="mailto:wpfkf4644@gmail.com">
