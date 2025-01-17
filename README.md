@@ -30,7 +30,7 @@
 ### 🐾 Connect with me
 <div style="display: flex; gap: 10px;">
   <a href="https://velog.io/@totomom/posts">
-    <img alt="ttottonuna | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />
+    <img alt="ttottonuna | velog" width="48px" src="https://velog.velcdn.com/images/hyeongjun/post/5fff0129-f29b-4dfa-b28b-f3af0e11ed4f/image.png" />
   </a>
   
   <a href="mailto:wpfkf4644@gmail.com">
@@ -42,4 +42,3 @@
   </a>
   
 </div>
-
